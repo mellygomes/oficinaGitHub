@@ -63,6 +63,8 @@ void processarDados(FILE *f1, FILE *f2) {
     }
 }
 
+// COMMITEIIIIIIIIIIIIIIIIIIIIIIIIIII NESSA POHA
+
 int main(){
 
     FILE *f1, *f2;
