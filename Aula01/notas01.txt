@@ -1,0 +1,15 @@
+runtime: programação em tempo de produção
+null: erro de ponteiro nulo
+Joptionpane
+Cast -> coverter tipos de valores
+
+Faça um programa que receba como dado de entrada duas notas de um aluno e mostre como resultado
+a média obtida por esse aluno
+
+Faça um programa que receba como dados de entrada 5 números inteiros, e mostre como resultado: 
+A) A soma dos números digitados;
+B) Qual foi o maior número digitado.
+
+OBS: Não utilizar vetor e utilizar no máximo 4 variáveis;
+
+YT pje Joao Evanjelista
